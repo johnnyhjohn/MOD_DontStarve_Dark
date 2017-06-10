@@ -1,6 +1,6 @@
 -- This information tells other players more about the mod
 name = "Darkzeros"
-description = "Adds Bigby to Don't Starve Together game.\nSnow White with her six little wolves moved to the farm where Bigby is forbidden to show himself. So Bigby runs out to the most wild place he can ever find... \n\nOriginal creator of the mode is Cameran Neumann. \nLink to original mode is steamcommunity.com/sharedfiles/filedetails/?id=467573780"
+description = "Um vagabundo.\nSnow White with her six little wolves moved to the farm where Bigby is forbidden to show himself. So Bigby runs out to the most wild place he can ever find... \n\nOriginal creator of the mode is Cameran Neumann. \nLink to original mode is steamcommunity.com/sharedfiles/filedetails/?id=467573780"
 author = "Claire Sazonow (facebook.com/claire.sazonow)"
 version = "3.0"
 
